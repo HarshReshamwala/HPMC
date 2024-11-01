@@ -1,0 +1,250 @@
+Shape: thin
+  Vertex 1: (0.9511, 0.3090)
+  Vertex 2: (0.7265, 0.0000)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (0.7265, 0.0000)
+  Vertex 2: (0.9511, 0.3090)
+  Vertex 3: (0.9511, -0.3090)
+
+Shape: thicc
+  Vertex 1: (0.3633, -0.1180)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (0.7265, 0.0000)
+  Vertex 2: (0.3633, -0.1180)
+  Vertex 3: (0.9511, -0.3090)
+
+Shape: thin
+  Vertex 1: (0.3633, -0.1180)
+  Vertex 2: (0.7265, 0.0000)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thin
+  Vertex 1: (0.9511, 0.3090)
+  Vertex 2: (0.5878, 0.4271)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (0.5878, 0.4271)
+  Vertex 2: (0.9511, 0.3090)
+  Vertex 3: (0.5878, 0.8090)
+
+Shape: thicc
+  Vertex 1: (0.2245, 0.3090)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (0.5878, 0.4271)
+  Vertex 2: (0.2245, 0.3090)
+  Vertex 3: (0.5878, 0.8090)
+
+Shape: thin
+  Vertex 1: (0.2245, 0.3090)
+  Vertex 2: (0.5878, 0.4271)
+  Vertex 3: (0.5878, 0.1910)
+
+Shape: thin
+  Vertex 1: (0.0000, 1.0000)
+  Vertex 2: (0.2245, 0.6910)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thicc
+  Vertex 1: (0.2245, 0.6910)
+  Vertex 2: (0.0000, 1.0000)
+  Vertex 3: (0.5878, 0.8090)
+
+Shape: thicc
+  Vertex 1: (0.2245, 0.3090)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thicc
+  Vertex 1: (0.2245, 0.6910)
+  Vertex 2: (0.2245, 0.3090)
+  Vertex 3: (0.5878, 0.8090)
+
+Shape: thin
+  Vertex 1: (0.2245, 0.3090)
+  Vertex 2: (0.2245, 0.6910)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thin
+  Vertex 1: (0.0000, 1.0000)
+  Vertex 2: (-0.2245, 0.6910)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thicc
+  Vertex 1: (-0.2245, 0.6910)
+  Vertex 2: (0.0000, 1.0000)
+  Vertex 3: (-0.5878, 0.8090)
+
+Shape: thicc
+  Vertex 1: (-0.2245, 0.3090)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thicc
+  Vertex 1: (-0.2245, 0.6910)
+  Vertex 2: (-0.2245, 0.3090)
+  Vertex 3: (-0.5878, 0.8090)
+
+Shape: thin
+  Vertex 1: (-0.2245, 0.3090)
+  Vertex 2: (-0.2245, 0.6910)
+  Vertex 3: (0.0000, 0.6180)
+
+Shape: thin
+  Vertex 1: (-0.9511, 0.3090)
+  Vertex 2: (-0.5878, 0.4271)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (-0.5878, 0.4271)
+  Vertex 2: (-0.9511, 0.3090)
+  Vertex 3: (-0.5878, 0.8090)
+
+Shape: thicc
+  Vertex 1: (-0.2245, 0.3090)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (-0.5878, 0.4271)
+  Vertex 2: (-0.2245, 0.3090)
+  Vertex 3: (-0.5878, 0.8090)
+
+Shape: thin
+  Vertex 1: (-0.2245, 0.3090)
+  Vertex 2: (-0.5878, 0.4271)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thin
+  Vertex 1: (-0.9511, 0.3090)
+  Vertex 2: (-0.7265, 0.0000)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (-0.7265, 0.0000)
+  Vertex 2: (-0.9511, 0.3090)
+  Vertex 3: (-0.9511, -0.3090)
+
+Shape: thicc
+  Vertex 1: (-0.3633, -0.1180)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thicc
+  Vertex 1: (-0.7265, 0.0000)
+  Vertex 2: (-0.3633, -0.1180)
+  Vertex 3: (-0.9511, -0.3090)
+
+Shape: thin
+  Vertex 1: (-0.3633, -0.1180)
+  Vertex 2: (-0.7265, 0.0000)
+  Vertex 3: (-0.5878, 0.1910)
+
+Shape: thin
+  Vertex 1: (-0.5878, -0.8090)
+  Vertex 2: (-0.5878, -0.4271)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (-0.5878, -0.4271)
+  Vertex 2: (-0.5878, -0.8090)
+  Vertex 3: (-0.9511, -0.3090)
+
+Shape: thicc
+  Vertex 1: (-0.3633, -0.1180)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (-0.5878, -0.4271)
+  Vertex 2: (-0.3633, -0.1180)
+  Vertex 3: (-0.9511, -0.3090)
+
+Shape: thin
+  Vertex 1: (-0.3633, -0.1180)
+  Vertex 2: (-0.5878, -0.4271)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thin
+  Vertex 1: (-0.5878, -0.8090)
+  Vertex 2: (-0.2245, -0.6910)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (-0.2245, -0.6910)
+  Vertex 2: (-0.5878, -0.8090)
+  Vertex 3: (-0.0000, -1.0000)
+
+Shape: thicc
+  Vertex 1: (-0.0000, -0.3820)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (-0.2245, -0.6910)
+  Vertex 2: (-0.0000, -0.3820)
+  Vertex 3: (-0.0000, -1.0000)
+
+Shape: thin
+  Vertex 1: (-0.0000, -0.3820)
+  Vertex 2: (-0.2245, -0.6910)
+  Vertex 3: (-0.3633, -0.5000)
+
+Shape: thin
+  Vertex 1: (0.5878, -0.8090)
+  Vertex 2: (0.2245, -0.6910)
+  Vertex 3: (0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (0.2245, -0.6910)
+  Vertex 2: (0.5878, -0.8090)
+  Vertex 3: (-0.0000, -1.0000)
+
+Shape: thicc
+  Vertex 1: (-0.0000, -0.3820)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (0.2245, -0.6910)
+  Vertex 2: (-0.0000, -0.3820)
+  Vertex 3: (-0.0000, -1.0000)
+
+Shape: thin
+  Vertex 1: (-0.0000, -0.3820)
+  Vertex 2: (0.2245, -0.6910)
+  Vertex 3: (0.3633, -0.5000)
+
+Shape: thin
+  Vertex 1: (0.5878, -0.8090)
+  Vertex 2: (0.5878, -0.4271)
+  Vertex 3: (0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (0.5878, -0.4271)
+  Vertex 2: (0.5878, -0.8090)
+  Vertex 3: (0.9511, -0.3090)
+
+Shape: thicc
+  Vertex 1: (0.3633, -0.1180)
+  Vertex 2: (0.0000, 0.0000)
+  Vertex 3: (0.3633, -0.5000)
+
+Shape: thicc
+  Vertex 1: (0.5878, -0.4271)
+  Vertex 2: (0.3633, -0.1180)
+  Vertex 3: (0.9511, -0.3090)
+
+Shape: thin
+  Vertex 1: (0.3633, -0.1180)
+  Vertex 2: (0.5878, -0.4271)
+  Vertex 3: (0.3633, -0.5000)
+
